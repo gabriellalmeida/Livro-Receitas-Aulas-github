@@ -3,5 +3,5 @@
 Olá! Bem vindo ao meu livro de receitas :wave:
 
 - Strogonoff de Frango
-- Pavê
-- Pasta de amendoim
+- Pavê (receita doce)
+- Pasta de amendoim (receita doce)
